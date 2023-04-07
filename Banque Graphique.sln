@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banque Graphique", "Banque Graphique.csproj", "{CB840D99-9E36-4E8C-A6D2-971F79C81A5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB840D99-9E36-4E8C-A6D2-971F79C81A5F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CB840D99-9E36-4E8C-A6D2-971F79C81A5F}.Debug|x86.ActiveCfg = Debug|x86
+		{CB840D99-9E36-4E8C-A6D2-971F79C81A5F}.Debug|x86.Build.0 = Debug|x86
+		{CB840D99-9E36-4E8C-A6D2-971F79C81A5F}.Release|Any CPU.ActiveCfg = Release|x86
+		{CB840D99-9E36-4E8C-A6D2-971F79C81A5F}.Release|x86.ActiveCfg = Release|x86
+		{CB840D99-9E36-4E8C-A6D2-971F79C81A5F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD702A3-A711-4C8A-904E-C108EB29CC85}
+	EndGlobalSection
+EndGlobal
